@@ -25,10 +25,10 @@ body{
 #box>section:hover{
     cursor: pointer;
 }
-#box .prev{
+#box .slide-prev{
     left: -50px;
 }
-#box .next{
+#box .slide-next{
     right: -50px;
 }
 #box ul{
